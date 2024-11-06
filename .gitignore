@@ -1,0 +1,35 @@
+# Node modules
+client/node_modules/
+server/node_modules/
+
+# Build output
+client/dist/
+server/dist/
+client/.next/
+
+# Environment variables
+client/.env.local
+client/.env.*       # Ignores any other .env files specific to Next.js
+server/.env
+server/.env.*       # Ignores any other .env files in server
+
+# Logs
+client/logs
+server/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp              # For Vim users
+
+# Miscellaneous
+client/.cache/
+server/.cache/
