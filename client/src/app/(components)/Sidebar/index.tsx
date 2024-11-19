@@ -82,7 +82,7 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://s3-stockpl-assets.s3.ap-south-1.amazonaws.com/logo.png"
+          src="https://ap-south-data.s3.ap-south-1.amazonaws.com/logo.png"
           alt="STOCKPL-logo"
           width={27}
           height={27}
