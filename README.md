@@ -2,7 +2,7 @@
 
 STOCKPL is a full-stack, responsive inventory management web app built with Next.js, designed for efficient shoe stock tracking. It provides real-time insights on inventory, sales, and automated profit/loss calculations. The application leverages AWS services including EC2 for hosting, S3 for storage, RDS for database management, API Gateway for API integration, and Amplify for deployment. STOCKPL demonstrates effective use of cloud infrastructure, offering a scalable and user-friendly solution for streamlined inventory control.
 
-🔗 [Website-Link](https://master.dzq78k9dl2wdw.amplifyapp.com/)
+🔗 [Website-Link](https://master.dl709113y1ftq.amplifyapp.com/)
 
 # Features 
 - **📦 Real-time Inventory Tracking:** Monitor stock levels and get instant updates on available shoe inventory.
